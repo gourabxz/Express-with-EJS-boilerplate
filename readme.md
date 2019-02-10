@@ -8,6 +8,7 @@ Super simple node js boilerplate using Express and EJS
 ### Installation
 ```sh
 $ git clone https://github.com/gourabxz/Express-with-EJS-boilerplate.git
-$ npm install -d
-$ node app
+$ cd Express-with-EJS-boilerplate-master
+$ npm install
+$ npm start
 ```
