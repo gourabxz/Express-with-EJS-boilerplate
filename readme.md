@@ -21,6 +21,7 @@ Make sure you have [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```
 $ heroku create
+$ git add .
 $ git push heroku master
 $ heroku open
 ```
